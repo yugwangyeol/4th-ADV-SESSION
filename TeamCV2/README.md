@@ -99,8 +99,6 @@
 
 ## 5. WebUI Inference
 
-<img src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/97331900/006eb31d-8eeb-4cb4-ad25-178f662d452b.gif  width="600" height="400"/>
-
 (1) python Formula_WebUI.py로 실행
 <br>
 (2) WebUI 흰색 영역에 PDF 형식의 논문 드래그
