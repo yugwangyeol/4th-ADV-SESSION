@@ -95,7 +95,7 @@
 
 ## 5. WebUI Inference
 
-(1) python main.py로 실행
+(1) python Formula_WebUI.py로 실행
 <br>
 (2) WebUI 흰색 영역에 PDF 형식의 논문 드래그
 <br>
