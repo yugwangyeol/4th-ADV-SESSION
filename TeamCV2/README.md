@@ -109,7 +109,7 @@
 
 ## 6. Formula CSV Inference
 
-(1) https://drive.google.com/file/d/1tCwXJIUm3YN_GQMrcpkWb7w-mw3s7aq5/view?usp=sharing best.pt 다운로드
+(1) <a href="https://drive.google.com/file/d/1tCwXJIUm3YN_GQMrcpkWb7w-mw3s7aq5/view?usp=sharing">best.pt 다운로드</a>
 <br>
 (2) formula_image, output_image, pdf_image 폴더 만들어 주기
 <br>
