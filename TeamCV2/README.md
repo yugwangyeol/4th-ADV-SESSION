@@ -100,12 +100,18 @@
 
 ## 5. WebUI Inference
 ![play](https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/97331900/a5b42e61-616e-4c29-81ce-01db58071d38)
+<br>
+<br>
+<br>
 
 (1) python Formula_WebUI.py로 실행
 <br>
+<br>
 (2) WebUI 흰색 영역에 PDF 형식의 논문 드래그
 <br>
+<br>
 (3) 해당 이미지 위에서 원하는 Formula 영역을 q로 통해 지정하고 드래그
+<br>
 <br>
 (4) 2-3초 기다리면 밑에 copy text가 나오고, 변환된 Latex 언어를 복사하여 사용
 
