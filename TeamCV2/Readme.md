@@ -90,11 +90,11 @@
 ## 5. WebUI Inference
 
 (1) python main.py로 실행
-
+<br>
 (2) WebUI 흰색 영역에 PDF 형식의 논문 드래그
-
+<br>
 (3) 해당 이미지 위에서 원하는 Formula 영역을 q로 통해 지정하고 드래그
-
+<br>
 (4) 2-3초 기다리면 밑에 copy text가 나오고, 변환된 Latex 언어를 복사하여 사용
 
 ---
