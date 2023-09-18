@@ -43,8 +43,9 @@
 - [3. 프로젝트 기간](#프로젝트-기간)
 - [4. 프로젝트 소개](#프로젝트-소개)
 - [5. WebUI Inference](#WebUI-Inference)
-- [6. 느낀점](#느낀점)
-- [7. 발표자료](#발표자료)
+- [6. Formula CSV Inference](#Formula-CSV-Inference)
+- [7. 느낀점](#느낀점)
+- [8. 발표자료](#발표자료)
 
 ---
 
