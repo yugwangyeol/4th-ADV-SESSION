@@ -121,9 +121,12 @@
 
 (1) <a href="https://drive.google.com/file/d/1tCwXJIUm3YN_GQMrcpkWb7w-mw3s7aq5/view?usp=sharing">best.pt 다운로드</a>
 <br>
+<br>
 (2) formula_image, output_image, pdf_image 폴더 만들어 주기
 <br>
+<br>
 (3) python Formula_csv.py --pfp "paper_pdf_path"
+<br>
 <br>
 (4) output.csv 사용
 
@@ -132,7 +135,7 @@
 ## 7. 느낀점
 
 **황건하**
-- X:AI학회에서 나의 두번째 Computer Vision 토이 프로젝트를 진행할 수 있음에 감사하였다. 지금까지는 Classification만 해봤었는데, Labeling, Detection, WebUI 등 많은 것을 경험할 수 있었고 부족한 실력을 사랑으로 품어준 우리 팀원들께 고맙다. 실력을 기른 뒤 Pose Estimation, Diffusion 등 다양한 Computer Vision 토이 프로젝트를 Let’s Go 하길 소망한다!!
+- X:AI학회에서 나의 두번째 Computer Vision 토이 프로젝트를 진행할 수 있음에 감사하였다. 지금까지는 Classification만 해봤었는데, Labeling, Detection, WebUI 등 많은 것을 경험할 수 있었고 부족한 실력을 사랑으로 품어준 우리 팀원들께 고맙다. 실력을 기른 뒤 Pose Estimation, Diffusion 등 다양한 Computer Vision 토이 프로젝트 멘토가 되어 배웠던 것을 후배들에게 나눠주길 소망한다.
 
 **이승학**
 - 프로젝트를 구상부터 구현까지 진행하면서 여러 시행착오가 있었지만 최종적인 결과물이 잘 나온 거 같아서 기분이 좋습니다. 특히 모델 학습 및 추론뿐만이 아니라 GUI 구성까지 짜보는 경험까지 해서 많은 것을 배운 프로젝트였던 것 같습니다. 비록 수식이 여러 줄 입력되었을 때 잘 인식하지 못한다는 아쉬움이 있지만, 추후 발전시켜 해결해 보고 싶습니다.
