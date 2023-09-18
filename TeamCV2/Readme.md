@@ -10,7 +10,7 @@
   
 <img width="739" alt="image" src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/9fc02872-52be-4603-b2ef-20c01638ffd3">
 
-
+<br>
 * [YOLO v8](https://github.com/HumanSignal/labelImg)
   
 <img width="675" alt="image" src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/7ebe9c83-3b50-4b7a-ade5-b668caea90bb">
@@ -90,8 +90,11 @@
 ## 5. WebUI Inference
 
 (1) python main.py로 실행
+
 (2) WebUI 흰색 영역에 PDF 형식의 논문 드래그
+
 (3) 해당 이미지 위에서 원하는 Formula 영역을 q로 통해 지정하고 드래그
+
 (4) 2-3초 기다리면 밑에 copy text가 나오고, 변환된 Latex 언어를 복사하여 사용
 
 ---
