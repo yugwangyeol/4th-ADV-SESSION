@@ -12,7 +12,9 @@
 
 <br>
 
+
 * [YOLO v8](https://github.com/HumanSignal/labelImg)
+
   
 <img width="675" alt="image" src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/7ebe9c83-3b50-4b7a-ade5-b668caea90bb">
 
