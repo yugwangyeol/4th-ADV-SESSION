@@ -1,6 +1,3 @@
-![icon](doc/free-icon-latex-allergy-8213011.png)
-
-
 ![font_logo](doc/font_logo.png)
 
 # 주제: Formula to Latex
@@ -26,6 +23,9 @@
 
   
 <img width="675" alt="image" src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/7ebe9c83-3b50-4b7a-ade5-b668caea90bb">
+
+<br>
+<br>
 
 * 사용시 해당 GitHub Clone 해서 사용해야 합니다.
 
