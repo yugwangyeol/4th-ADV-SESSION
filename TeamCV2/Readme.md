@@ -11,7 +11,7 @@
 <img width="739" alt="image" src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/9fc02872-52be-4603-b2ef-20c01638ffd3">
 
 <br>
-
+<br>
 
 - [YOLO v8](https://github.com/HumanSignal/labelImg)
 
@@ -112,8 +112,12 @@
 
 **이서연**
 
+---
 
 ## 7. 발표자료
+
+
+
 
 
 
