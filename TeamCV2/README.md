@@ -1,6 +1,5 @@
-![icon](doc/latex.png)
 
-![icon][font_logo](doc/font_logo.png)
+![font_logo](doc/font_logo.png)
 
 # 주제: Formula to Latex
 
