@@ -105,7 +105,19 @@
 
 ---
 
-## 6. 느낀점
+## 6. Formula CSV Inference
+
+(1) https://drive.google.com/file/d/1tCwXJIUm3YN_GQMrcpkWb7w-mw3s7aq5/view?usp=sharing best.pt 다운로드
+<br>
+(2) formula_image, output_image, pdf_image 폴더 만들어 주기
+<br>
+(3) python Formula_csv.py --pfp "paper_pdf_path"
+<br>
+(4) output.csv 사용
+
+---
+
+## 7. 느낀점
 
 **황건하**
 
@@ -117,7 +129,7 @@
 
 ---
 
-## 7. 발표자료
+## 8. 발표자료
 
 
 
