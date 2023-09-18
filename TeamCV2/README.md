@@ -1,3 +1,5 @@
+![icon](doc/free-icon-latex-allergy-8213011.png)
+
 
 ![font_logo](doc/font_logo.png)
 
