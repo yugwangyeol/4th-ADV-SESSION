@@ -4,8 +4,6 @@
 
 <img width="777" alt="image" src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/6b9801e8-26a6-4c37-a7a0-091be7549da3">
 
-![play](https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/97331900/006eb31d-8eeb-4cb4-ad25-178f662d452b)
-
 ---
 
 #### 사용 모델
@@ -100,6 +98,8 @@
 ---
 
 ## 5. WebUI Inference
+
+<img src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/97331900/006eb31d-8eeb-4cb4-ad25-178f662d452b  width="600" height="400"/>
 
 (1) python Formula_WebUI.py로 실행
 <br>
