@@ -9,6 +9,8 @@
 
 #### 사용 모델
 * [Pix2tex - LatexOCR](https://github.com/lukas-blecher/LaTeX-OCR)
+
+* ![font_logo](doc/play.gif)
   
 <img width="739" alt="image" src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/9fc02872-52be-4603-b2ef-20c01638ffd3">
 
