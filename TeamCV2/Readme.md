@@ -6,14 +6,17 @@
 ---
 
 #### 사용 모델
-[Pix2tex - LatexOCR](https://github.com/lukas-blecher/LaTeX-OCR)
+* [Pix2tex - LatexOCR](https://github.com/lukas-blecher/LaTeX-OCR)
   
 <img width="739" alt="image" src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/9fc02872-52be-4603-b2ef-20c01638ffd3">
 
 
 <br>
+<br>
+<br>
+<br>
 
-[YOLO v8](https://github.com/HumanSignal/labelImg)
+- [YOLO v8](https://github.com/HumanSignal/labelImg)
 
   
 <img width="675" alt="image" src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/7ebe9c83-3b50-4b7a-ade5-b668caea90bb">
