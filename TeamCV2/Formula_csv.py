@@ -33,7 +33,7 @@ def formula_detection(treshhold=0.5):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
     files = os.listdir(output_folder)
-    model = YOLO('../best.pt')
+    model = YOLO('best.pt')
 
     for page_idx,file in enumerate(files):
         img_fp = f'{output_folder}/{file}'
