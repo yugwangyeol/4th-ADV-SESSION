@@ -1,11 +1,17 @@
-<img width="777" alt="image" src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/6b9801e8-26a6-4c37-a7a0-091be7549da3">
+![free-icon-github-11388957](https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/dd20e8b9-8f4b-4efc-9d85-4f97ae2def23)
+
 
 # 주제: Formula to Latex
+
+<img width="777" alt="image" src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/6b9801e8-26a6-4c37-a7a0-091be7549da3">
+
+---
 
 #### 사용 모델
 * [Pix2tex - LatexOCR](https://github.com/lukas-blecher/LaTeX-OCR)
   
 <img width="739" alt="image" src="https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/100743813/9fc02872-52be-4603-b2ef-20c01638ffd3">
+
 
 * [YOLO v8](https://github.com/HumanSignal/labelImg)
   
