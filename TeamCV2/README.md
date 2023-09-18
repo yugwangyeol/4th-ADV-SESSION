@@ -98,6 +98,7 @@
 ---
 
 ## 5. WebUI Inference
+![play](https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/97331900/a5b42e61-616e-4c29-81ce-01db58071d38)
 
 (1) python Formula_WebUI.py로 실행
 <br>
