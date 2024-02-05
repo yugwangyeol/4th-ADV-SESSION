@@ -7,7 +7,22 @@
 - 홛동 기간 : 2023년 7월 - 8월
 - Team CV2팀으로 활동
 - CV관련 논문 리뷰 진행
-[논문 리뷰]
+- 8주간 Toy Project 진행
+
+<br/>
+
+# Paper
+
+|주차|CV1|CV2|
+|---|---|---|
+|1주차|VIT|Inception-V4|
+|2주차|Taskonomy|Noisy Student Training|
+|3주차|Swin-Transformer|GCN|
+|4주차|RegNet|YOLO V4|
+|5주차|DETR|MixUp|
+|6주차|DINO|ConvNext|
+|7주차|DDPM|NeRF|
+|8주차|Dalle|Grad-CAM	|
 
 <br/>
 
